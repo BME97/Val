@@ -291,59 +291,65 @@ Pr 4{ "Get Wisdom at ANY COST"
 }
 
 ///
+warnings
+///
 
-Pr5 {
-1My son, pay attention to my wisdom,
-turn your ear to my words of insight,
-2that you may maintain discretion
-and your lips may preserve knowledge.
-3For the lips of the adulterous woman drip honey,
-and her speech is smoother than oil;
-4but in the end she is bitter as gall,
-sharp as a double-edged sword.
-5Her feet go down to death;
-her steps lead straight to the grave.
-6She gives no thought to the way of life;
-her paths wander aimlessly, but she does not know it.
-7Now then, my sons, listen to me;
-do not turn aside from what I say.
-8Keep to a path far from her,
-do not go near the door of her house,
-9lest you lose your honor to others
-and your dignity to one who is cruel,
-10lest strangers feast on your wealth
-and your toil enrich the house of another.
-11At the end of your life you will groan,
-when your flesh and body are spent.
-12You will say, “How I hated discipline!
-How my heart spurned correction!
-13I would not obey my teachers
-or turn my ear to my instructors.
-14And I was soon in serious trouble
-in the assembly of God’s people.”
-15Drink water from your own cistern,
-running water from your own well.
-16Should your springs overflow in the streets,
-your streams of water in the public squares?
-17Let them be yours alone,
-never to be shared with strangers.
-18May your fountain be blessed,
-and may you rejoice in the wife of your youth.
-19A loving doe, a graceful deer—
-may her breasts satisfy you always,
-may you ever be intoxicated with her love.
-20Why, my son, be intoxicated with another man’s wife?
-Why embrace the bosom of a wayward woman?
-21For your ways are in full view of the Lord,
-and he examines all your paths.
-22The evil deeds of the wicked ensnare them;
-the cords of their sins hold them fast.
-23For lack of discipline they will die,
-led astray by their own great folly.
+Pr5 { "adultery"
+                // 1 My son, PAY ATTENTION to my wisdom,
+                TURN YOUR EAR to my words of insight,
+                2t hat you may MAINTAIN DISCRETION
+                and your lips may PRESERVE KNOWLEDGE.
+        3 For the lips of the adulterous woman drip honey,
+        and her speech is smoother than oil;
+        4 but in the end she is bitter as gall,
+        sharp as a double-edged sword.
+        5 Her feet go down to death;
+        her steps lead straight to the grave.
+        6 She gives no thought to the way of life;
+        her paths wander aimlessly, but she does not know it.
+                // 7 Now then, my sons, LISTEN to me;
+                DO NOT TURN ASIDE from what I say.
+                8 KEEP to a path FAR from her,
+                DO NOT GO NEAR the door of her house,
+        9 lest you lose your honor to others
+        and your dignity to one who is cruel,
+        10 lest strangers feast on your wealth
+        and your toil enrich the house of another.
+
+        11 At the end of your life you will groan,
+        when your flesh and body are spent.
+        12 You will say, “How I hated DISCIPLINE!
+        How my heart spurned CORRECTION!
+        13 I would not OBEY my teachers
+        or TURN MY EAR to my instructors.
+        14 And I was soon in serious trouble
+        in the ASSEMBLY OF GOD'S PEOPLE.”
+
+                // 15 DRINK water from YOUR OWN CISTERN,
+                running water from YOUR OWN WELL.
+        16 Should your springs overflow in the streets,
+        your streams of water in the public squares?
+                // 17 LET them be YOURS ALONE,
+                NEVER to be SHARED with strangers.
+#wife
+                // 18 May your fountain be blessed,
+                and may you REJOICE in the wife of your youth.
+                19 A loving doe, a graceful deer—
+                may her breasts SATISFY you always,
+                may you ever be INTOXICATED with her love.
+
+        20 Why, my son, be intoxicated with another man’s wife?
+        Why embrace the bosom of a wayward woman?
+                // 21 For YOUR WAYS are in FULL VIEW OF THE LORD,
+                and HE EXAMINES all your paths.
+        22 The evil deeds of the wicked ensnare them;
+        the cords of their sins hold them fast.
+        23 For lack of DISCIPLINE they will die,
+        led astray by their own great folly.
 }
 
 
-Pr6{
+Pr6{ "folly"
 1My son, if you have put up security for your neighbor,
 if you have shaken hands in pledge for a stranger,
 2you have been trapped by what you said,
@@ -425,7 +431,7 @@ he will refuse a bribe, however great it is.
 }
 
 
-Pr7{
+Pr7{ "adulterous woman"
 1My son, keep my words
 and store up my commands within you.
 2Keep my commands and you will live;
@@ -486,9 +492,10 @@ leading down to the chambers of death.
 }
 
 /////
+#wisdom
 /////
 
-Pr8 {
+Pr8{ Wisdom's call"
 1Does not wisdom call out?
 Does not understanding raise her voice?
 2At the highest point along the way,
