@@ -591,43 +591,46 @@ Pr8{ Wisdom's call"
         all who hate me love death.”
 }
 
-Pr9 {
-1Wisdom has built her house;
-she has set up its seven pillars.
-2She has prepared her meat and mixed her wine;
-she has also set her table.
-3She has sent out her servants, and she calls
-from the highest point of the city,
-4“Let all who are simple come to my house!”
-To those who have no sense she says,
-5“Come, eat my food
-and drink the wine I have mixed.
-6Leave your simple ways and you will live;
-walk in the way of insight.”
-7Whoever corrects a mocker invites insults;
-whoever rebukes the wicked incurs abuse.
-8Do not rebuke mockers or they will hate you;
-rebuke the wise and they will love you.
-9Instruct the wise and they will be wiser still;
-teach the righteous and they will add to their learning.
-10The fear of the Lord is the beginning of wisdom,
-and knowledge of the Holy One is understanding.
-11For through wisdom your days will be many,
-and years will be added to your life.
-12If you are wise, your wisdom will reward you;
-if you are a mocker, you alone will suffer.
-13Folly is an unruly woman;
-she is simple and knows nothing.
-14She sits at the door of her house,
-on a seat at the highest point of the city,
-15calling out to those who pass by,
-who go straight on their way,
-16“Let all who are simple come to my house!”
-To those who have no sense she says,
-17“Stolen water is sweet;
-food eaten in secret is delicious!”
-18But little do they know that the dead are there,
-that her guests are deep in the realm of the dead.
+Pr9 { "invitations"
+        1 WISDOM has BUILT her HOUSE;
+        she has SET UO its SEVEN PILLARS.
+        2 She has PREPARED her MEAT and MIXED her WINE;
+        she has also SET her TABLE.
+        3 She has SENT OUT her SERVANTS, and she CALLS
+        from the HIGHEST POINT of the city,
+                // 4 “LET ALL who are simple COME to MY HOUSE!”
+                To those who have NO SENSE she says,
+                5 “COME, EAT MY FOOD
+                and DRINK THE WINE I have mixed.
+                6 LEAVE your simple ways and you WILL LIVE;
+                WALK in the WAY OF INSIGHT.”
+
+        7 Whoever corrects a mocker invites insults;
+        whoever rebukes the wicked incurs abuse.
+                // 8 DO NOT REBUKE MOCKERS or they WILL HATE you;
+                REBUKE THE WISE and they WILL LOVE you.
+                9 INSTRUCT THE WISE and they WILL BE WISER still;
+                TEACH THE RIGHTEOUS and they WILL ADD TO THEIR LEARNING.
+        #FOTL
+                // 10 The FEAR OF THE LORD is the BEGINNING OF WISDOM,
+                and KNOWLEDGE OF THE HOLY ONE is UNDERSTANDING.
+        11 For through WISDOM your DAYS WILL BE MANY,
+        and YEARS WILL BE ADDED to your LIFE.
+                // 12 If you are WISE, your wisdom WILL REWARD you;
+                if you are a mocker, you alone will suffer.
+
+        13 Folly is an unruly woman;
+        she is simple and knows nothing.
+        14 She << sits >> at the door of her house,
+        << on a seat >> at the highest point of the city,
+        15 calling out to those who pass by,
+        who go straight on their way,
+        16 “Let all who are simple come to my house!”
+        To those who have no sense she says,
+        17 “Stolen water is sweet;
+        food eaten in secret is delicious!”
+        18 But little do they know that the dead are there,
+        that her guests are deep in the realm of the dead.
 }
 
 ///////
