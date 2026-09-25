@@ -1,1 +1,650 @@
 
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+TRANSIT TEST PROTOCOL
+for MeiraGTx ADS Injector
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+1.0	PURPOSE
+This protocol defines the methods and materials needed to verify the effectiveness of the shipping configuration for the MeiraGTx Acute Delivery System (ADS) Injector within an ISTA 3A shipping model.
+2.0	SCOPE
+This protocol solely applies to the MeiraGTx ADS Injector and the provided Packaged Assembly. The scope is limited to the verification of the Packaged Assembly in providing adequate protection to the ADS Injector during transit testing, per ISTA 3A, while also satisfying part of the Design Input Requirements specified in PPC-0961-20000 and listed in Table 1. A qualified third-party, Unified2 Global Packaging Group, provides the Carton Packaged Assembly and performs the transit test. Further functional evaluation of the packaging is conducted by NextPhase Medical Devices LLC (NXP).
+Table 1: Design Inputs
+Requirement ID #	Requirement
+ID-5-001	The Injector packaging shall pass evaluation per ISTA 3A test methods.
+ID-5-002	The Injector shall pass critical functional requirements after ISTA 3A conditioning.
+3.0	BACKGROUND
+The MeiraGTx ADS Injector is an infusion pump intended for the direct accurate delivery of the AAV-GAD gene therapy drug to brain parenchyma. The system shall be used by physicians and operating room nurses familiar with neurosurgery within post-operative recovery rooms, as well as inside and outside the sterile field in the operating room of professional healthcare facilities that are familiar with neurosurgery.
+
+NextPhase Medical Devices is an FDA registered and EN ISO 13485:2016 certified organization with significant expertise in medical device design, verification and validation, and manufacturing.
+
+The design of the study is appropriate because ISTA 3A is an internationally recognized test method used to evaluate packaging commonly distributed as individual packages, either by air or ground, such as the one designed for the MeiraGTx ADS Injector.
+4.0	REFERENCE DOCUMENTS
+The system will comply with applicable sections of the most current version of the following:
+4.1	Internal Documents:
+Document Number	Title
+PPC-0961-20000	Product Performance Characteristics, MeiraGTx Parenchymal Catheter Delivery System Development
+RTR-0961-20000	MeiraGTx ADS Injector Assembly Router
+DWG-0961-20031	MeiraGTx ADS Injector Assembly
+MP-0961-20031	Assembly Procedure, MeiraGTx ADS Injector
+MP-0961-20000	MeiraGTx ADS Injector Packaging Procedure
+MP-0961-20001	MeiraGTx ADS Injector Label Creation Procedure
+TM-0961-20000	MeiraGTx ADS Injector Final Test
+VVP-0961-20000	MeiraGTx ADS Injector Verification and Validation Plan
+DWGX-0961-30060	System Shelf Box, Injector provided by Unified2 Global Packaging Group 
+DWGX-0961-30061	System Shipping Box, Injector provided by Unified2 Global Packaging Group 
+4.2	External Documents:
+Document Number	Title
+ISTA 3A (March 2018)	ISTA 3 Series General Simulation Performance Test Procedure – Packaged-Products for Parcel Delivery System Shipment 70 kg (150 lb) or Less
+21 CFR § 820	Quality Management System Regulation (QMSR)
+EU MDR 2017/745	European Medical Device Regulation
+
+5.0	DEFINITIONS AND ACRONYMS
+Term	Definition
+IFU	Instructions for Use
+NXP	NextPhase Medical Devices LLC
+
+6.0	RESPONSIBILITIES
+Owner	Responsibilities
+Originator	•	Writing the protocol.
+•	Coordinate protocol execution.
+•	Writing the report.
+Program Management	•	Reviewing and approving the protocol.
+•	Coordinating resources for the execution of the protocol.
+•	Reviewing and approving the report.
+Engineering, Manufacturing Engineering	•	Reviewing and approving the protocol.
+•	Coordinating execution of the protocol.
+•	Writing the report.
+•	Reviewing and approving the report.
+Third-party vendor	•	Reviewing and approving the protocol.
+•	Building the test articles and providing shipping materials.
+•	Reviewing and approving the report.
+Customer	•	Reviewing and approving the protocol.
+•	Reviewing and approving the report
+
+7.0	TEST ARTICLES, MATERIALS, AND EQUIPMENT
+
+7.1	Test Articles required for this protocol, containing tested components and type of test performed:
+Quantity Required	Part Number	Description	Test
+1	DWG-0961-20031	MeiraGTx ADS Injector Assembly	Visual
+1	DWG-0961-40015	AC Power Cord	Visual
+1	DWG-0961-40016	Power Adapter	Visual
+1	0961-30157	IFU, MeiraGTx ADS cover sheet	Visual
+	0118-03094	IFU, MeiraGTx ADS	
+1	X0961-30060	System Shelf Box, Injector	Visual
+1	X0961-30061	System Shipping Box, Injector	Visual
+
+7.2	Test Materials
+7.2.1	The packaging and additional materials required per ISTA 3A will be documented by Unified2 Global Packaging Group during testing at their designated testing facility.
+
+7.3	Test Equipment
+7.3.1	Equipment used in testing must be calibrated and within the calibration period.
+7.3.2	A qualified third-party, Unified2 Global Packaging Group, will perform the transit test. The test facility will document the equipment and calibration status in their test report.
+7.3.3	Equipment used for testing or review at NXP will be documented on Attachment 1: Calibration Data Sheet. If a piece of equipment is not calibrated because the output is measured by calibrated equipment, the equipment which monitors the output will be recorded. A copy of the calibration information with the balance of the protocol data will be included in the final test report for this protocol.
+
+8.0	DESIGN OF EXPERIMENTS
+8.1	Experimental Design
+This study has two parts:
+8.1.1	Part 1 is a transit simulation, conducted according to ISTA 3A by Unified2 Global Packaging Group. This test is appropriate for single packages up to 70 kg (150 lb) for distribution by air or ground, from pick up at the manufacturer’s site to delivery at the destination. The transportation cycle will be simulated using the method defined in ISTA 3A, following the sequence listed in Table 4 – Test Sequence and Levels.
+Table 2 - Test Sequence and Levels
+Sequence Number	Test Category	Test Type	Test Level
+1	Atmospheric Preconditioning 
+TEST BLOCK 1	Temperature and Humidity	Ambient
+3	Shock
+TEST BLOCK 3	Drop (not in a bag)	9 Drops – height varies with packaged-product weight
+4	Vibration
+TEST BLOCKS 6 & 7	Random With and Without Top Load	Overall Grms level of 0.53 <and 0.46>
+5	Vibration
+TEST BLOCKS 2 & 8	Random Vibration Under Low Pressure	Truck or Truck & Air Dependent (Optional)
+6	Shock
+TEST BLOCK 9	Drop (in a bag)	7 Drops – height varies with packaged-product weight
+8.1.2	Part 2 consists of a functional evaluation to determine if the conditions in Part 1 had an adverse effect on the functionality of the ADS Injector. This test will be conducted by NXP.
+
+8.2	Sample Size Rationale
+Sample size has been established per VVP-0961-20000. The Type Acceptance Test (TAT) follows the internationally recognized performance test procedure ISTA 3A. This procedure specifies a sample size of one for transit simulation. One test article is adequate for this evaluation because the intent is to evaluate whether the test articles, when designed and manufactured and processed according to approved specifications for clinical units, satisfy the requirements of the Product Performance Characteristics document. Per customer needs, 8 devices will be tested.
+		
+8.3	Data Analysis
+A functional verification test, per TM-0961-20000, will be used to determine if the test product was not damaged during Part 1. This study is being conducted as a Type Acceptance Test and the results are self-evident. Therefore, specification of a statistical method for data analysis is not required.
+8.4	Deviations and Discrepancies
+8.4.1	Deviations
+Deviations to this protocol are permitted, provided they are reviewed by the protocol approvers.
+Deviations will be documented in the report, stating what was supposed to occur, what actually did occur, and justification for the effect on the study.
+8.4.2	Discrepancies
+Discrepancies will be reviewed on a case-by-case basis to determine the effect on the study. In order to accept a discrepant result as passing, the review must demonstrate that the design intent was met.
+Discrepancies will be documented in the report, stating what was supposed to occur, what actually did occur, and justification for the effect on the study.
+
+9.0	ACCEPTANCE CRITERIA
+The results of this study will be evaluated against these criteria. All criteria must be met in order for the study to be considered successful.
+Table 3 - Acceptance Criteria
+Criterion	Specification	Acceptance
+1	The shipping container must have:
+•	Legible labels.
+•	Scanner-readable bar codes.	All samples meet specification.
+2	The items contained within the interior shall reside in their proper position, with no items missing.	All samples meet specification.
+3	The exterior of each device will be free of visible damage with the unaided eye, including but not limited to, dents, cracks, loose/missing components, loose/missing screws, misaligned plugs (if appropriate), and broken switches (if appropriate), paint abrasion, scratches, etc.	All samples meet specification.
+4	All test articles must meet applicable functional requirements.	All samples meet specification.
+10.0	NON-CONFORMANCES
+10.1	Any injector, subassembly component that does not meet the criteria above will be investigated to identify the root cause, and if not directly associated to the design or the packaging, the team will consider if it is appropriate to consider it a pass or failure.
+11.0	CALIBRATION
+Record the Identification number and calibration due date of all equipment used in this protocol in Appendix 1 Calibration sheet. If a piece of equipment is not calibrated because the output is measured by another calibrated equipment, record the equipment that monitors the output.
+12.0	TEST PROCEDURE
+12.1	Setup
+12.1.1	Obtain (1) DWG-0961-20031, MeiraGTx ADS Injector, from the DV Build.
+12.1.2	Verify test article meets the requirements of TM-0961-20000 and retain a copy of the completed functional test data sheet(s) per TM-0961-20000, for inclusion in the test report upon completion.
+12.1.3	Package the test articles according to MP-0961-20000.
+12.1.3.1	Corrugated board shipping boxes are to be visually inspected for damage prior to packing the test articles. All observations are to be recorded in Appendix 2.
+12.1.3.2	Inspect interior foam supports for any damage prior to packing the ADS Injector. All observations are to be recorded in Attachment 2.
+12.1.3.3	Inspect additional items included within the packaging per MP-0961-20000 (AC Power Cord, Power Adapter, IFU). All observations are to be recorded in Attachment 2.
+12.1.3.4	Any damage or abnormalities found during visual inspections should be photographed and documented in the report.
+12.1.4	Verify the items contained within the package reside in their proper position, with no items missing. Record any findings in Appendix 2.
+12.1.5	Produce a bar code on a blank shipper label.
+NOTE: The information on the label can be for any product.
+12.1.6	Attach the label to the shipping box.
+12.1.7	Verify the size and weight of the shipping box.
+12.1.8	Verify the label(s) are adhered to the cardboard shipping box.
+12.1.9	Verify label(s) are legible.
+12.1.10	Verify the bar code(s) are scannable.
+12.1.11	Submit the test article to the 3rd party test service for testing.
+12.1.12	3rd party test service will verify the size and weight of the shipping box. 
+12.2	Procedure – ISTA conditioning & testing
+NOTE: These steps to be performed by 3rd party test house. Test house must document actual conditions in their report.
+12.2.1	Verify size and weight of the test article.
+12.2.2	Store test article at ambient temperature for a minimum of 6 hours.
+•	Ambient Temperature = 23 °C ± 2 °C (73 °F ± 4 °F)
+•	Ambient Relative Humidity (RH) = 50% RH ± 5%
+12.2.3	Conduct ISTA 3A testing using the information from Step 10.1 (size and weight) and the tests specified for STANDARD/SMALL packaged-products.
+12.2.4	Sign and date any data sheets.
+12.2.5	Provide a report containing the details of the testing.
+12.3	procedure – post-test inspection and function verification
+	NOTE: Record all observations and comments on the data sheet.
+12.3.1	Shipping Box Inspection
+12.3.1.1	Inspect shipping box for damage prior to un-packing the ADS Injector. All abnormalities are to be recorded in Appendix 3.
+12.3.1.2	Any damage or abnormalities found during visual inspection should be photographed and documented in the report.
+12.3.2	Label Inspection
+12.3.2.1	Examine the labels on the shipping box.
+12.3.2.2	Verify that the labels are legible.
+12.3.2.3	Verify that any bar codes are scannable.
+12.3.2.4	Verify that labels are adhered to the shipper box.
+12.3.2.5	Record findings in Appendix 3.
+12.3.3	Post-Test Functional Device Verification
+12.3.3.1	Verify the items contained within the shipping box reside in their proper position, with no items missing. Record findings in Appendix 3. 
+12.3.3.2	Un-pack the items and verify that they are free from visible damage. All damage or abnormalities are to be recorded in Appendix 3.
+12.3.3.3	Any damage or abnormalities found during visual inspection should be photographed and documented in the report.
+12.3.3.4	Use the ADS Injector Assembly to perform the EOL functional test per TM-0961-20000.
+12.3.3.5	The ability to perform the EOL functional test per TM-0961-20000 using the ADS Injector test article satisfies the functional test requirement. Document results in Appendix 3.
+13.0	DISPOSITION OF PRODUCT
+All Products in this protocol will be delivered to Engineering for further testing. The devices used for this protocol will be held until approval of the report. Upon report approval, the devices will be processed according to the recommendation of the report.
+14.0	ATTACHMENTS
+Attachment 1:  Calibration Data Sheet
+Attachment 2:  Pre-Transit Inspection & Test
+Attachment 3:  Post-Transit Inspection & Test
+  
+REVISION RECORD
+Rev #	Request #	Description
+X00	DTR-2026-XXXXXX	Original Release
+ 
+Attachment 1 – Calibration Data Sheet
+Equipment ID No.	Equipment Description	Last Calibration Date	Calibration Due Date
+			
+			
+			
+			
+			
+			
+			
+			
+
+Verified By:
+		
+Name	Signature	Date
+Reviewed By:
+		
+Name	Signature	Date
+
+
+
+
+ 
+Appendix 2 – Pre-Transit Inspection & Test
+ADS Injector Assembly Serial Number:	
+ADS Injector Assembly Work Order Number:	
+Test Step	Description 	Results	Comments
+9.2	Verify test article meets requirements of TM-0961-20000. Include completed copy of TM-0961-20000, Attachment #TBD with this document.	        P                   0
+       0                   F
+
+9.3.1	Inspect cardboard shipping box	P	0
+0
+F	
+9.3.2	Inspect interior foam	P	0
+0
+F	
+9.7	Verify the size and weight of packaged ADS Injector Assembly
+Nominal: TBD x TBD x TBD inch (±TBD”)	H:	W:	L:	Wt:	
+9.8	Verify the label(s) are adhered to the cardboard shipping box.	P	0
+0
+F	
+9.9	Verify label(s) are legible.	P	0
+0
+F	
+9.10	Verify that bar code(s) are scannable.	P	0
+0
+F	
+			
+Verified By:
+		
+Printed Name	Signature	Date
+Appendix 3 – Post-Transit Inspection & Test
+ADS Injector Assembly Serial Number:	
+ADS Injector Assembly Work Order Number:	
+Test Step	Description 	Results	Comments
+11.1.1	Inspect cardboard shipping box for damage.	      P                 0
+       0                  F
+
+11.2.2	Verify label(s) are legible.	P	0
+0
+F	
+11.2.3	Verify bar code(s) are scannable.	P	0
+0
+F	
+11.2.4	Verify label(s) are adhered to the cardboard shipping box.	P	0
+0
+F	
+Functional Device Testing
+11.3.1	Verify contents reside in proper position.	P	0
+0
+F	
+11.3.2	Verify packaged items are free from visible damage.	P	0
+0
+F	
+11.3.4	Verify ADS Injector meets requirements of TM-0961-20000. Include completed copy of TM-0961-20000, Attachment #TBD with this document.	P	0
+0
+F	
+			
+Verified By:
+		
+Printed Name	Signature	Date
+
+
+/////////////////////////////////////////////////////
+/////////////////////////////////////////////////////
+/////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSIT TEST PROTOCOL
+for MeiraGTx ADS Injector
+
+ 
+1.0	Purpose
+This protocol defines the methods and materials needed to verify the effectiveness of the shipping configuration for the MeiraGTx Acute Delivery System (ADS) Injector within an ISTA 3A shipping model.
+2.0	Scope
+This protocol solely applies to the MeiraGTx ADS Injector and the provided Packaged Assembly. The scope is limited to the verification of the Packaged Assembly in providing adequate protection to the ADS Injector during transit testing, per ISTA 3A, while also satisfying part of the Design Input Requirements specified in PPC-0961-20000 and listed in Table 1. A qualified third-party, Unified2 Global Packaging Group, provides the Carton Packaged Assembly and performs the transit test. Further functional evaluation of the packaging is conducted by NextPhase Medical Devices LLC (NXP).
+Table 1: Design Inputs
+Requirement ID #	Requirement
+ID-5-001	The Injector packaging shall pass evaluation per ISTA 3A test methods.
+ID-5-002	The Injector shall pass critical functional requirements after ISTA 3A conditioning.
+
+3.0	Background
+3.1	The MeiraGTx ADS Injector is an infusion pump intended for the direct accurate delivery of the AAV-GAD gene therapy drug to brain parenchyma. The system shall be used by physicians and operating room nurses familiar with neurosurgery within post-operative recovery rooms, as well as inside and outside the sterile field in the operating room of professional healthcare facilities that are familiar with neurosurgery.
+3.2	NextPhase Medical Devices is an FDA registered and EN ISO 13485:2016 certified organization with significant expertise in medical device design, verification and validation, and manufacturing.
+3.3	The design of the study is appropriate because ISTA 3A is an internationally recognized test method used to evaluate packaging commonly distributed as individual packages, either by air or ground, such as the one designed for the MeiraGTx ADS Injector.
+
+4.0	Reference Documents
+The system will comply with applicable sections of the most current version of the following:
+4.1	Internal Documents:
+Document Number	Title
+PPC-0961-20000	Product Performance Characteristics, MeiraGTx Parenchymal Catheter Delivery System Development
+RTR-0961-20000	MeiraGTx ADS Injector Assembly Router
+DWG-0961-20031	MeiraGTx ADS Injector Assembly
+MP-0961-20031	Assembly Procedure, MeiraGTx ADS Injector
+MP-0961-20000	MeiraGTx ADS Injector Packaging Procedure
+MP-0961-20001	MeiraGTx ADS Injector Label Creation Procedure
+TM-0961-20000	MeiraGTx ADS Injector Final Test
+VVP-0961-20000	MeiraGTx ADS Injector Verification and Validation Plan
+DWGX-0961-30060	System Shelf Box, Injector provided by Unified2 Global Packaging Group 
+DWGX-0961-30060	System Shipping Box, Injector provided by Unified2 Global Packaging Group 
+
+4.2	External Documents:
+ 
+Document Number	Title
+ISTA 3A (March 2018)	ISTA 3 Series General Simulation Performance Test Procedure – Packaged-Products for Parcel Delivery System Shipment 70 kg (150 lb) or Less
+21 CFR § 820	Quality Management System Regulation (QMSR)
+EU MDR 2017/745	European Medical Device Regulation
+
+5.0	Definitions
+Term	Definition
+IFU	Instructions for Use
+NXP	NextPhase Medical Devices LLC
+
+6.0	Responsibilities
+Owner	Responsibilities
+Originator	•	Writing the protocol.
+•	Coordinate protocol execution.
+•	Writing the report.
+Program Management	•	Reviewing and approving the protocol.
+•	Coordinating resources for the execution of the protocol.
+•	Reviewing and approving the report.
+Engineering, Manufacturing Engineering	•	Reviewing and approving the protocol.
+•	Coordinating execution of the protocol.
+•	Writing the report.
+•	Reviewing and approving the report.
+Third-party vendor	•	Reviewing and approving the protocol.
+•	Building the test articles and providing shipping materials.
+•	Reviewing and approving the report.
+Customer	•	Reviewing and approving the protocol.
+•	Reviewing and approving the report
+
+7.0	Test Articles, Materials, and Equipment
+7.1	Test Articles:
+Quantity Required	Part Number	Description	Test
+1	DWG-0961-20031	MeiraGTx ADS Injector Assembly	Visual
+1	DWG-0961-40015	AC Power Cord	Visual
+1	DWG-0961-40016	Power Adapter	Visual
+1	0961-30157	IFU, MeiraGTx ADS	Visual
+	0118-03094	IFU, MeiraGTx ADS	
+1	X0961-30060	System Shelf Box, Injector	Visual
+1	X0961-30061	System Shipping Box, Injector	Visual
+
+7.2	Test Materials
+7.2.1	The packaging and additional materials required per ISTA 3A will be documented by Unified2 Global Packaging Group during testing at their designated testing facility.
+7.3	Test Equipment
+7.3.1	Equipment used in testing must be calibrated and within the calibration period.
+7.3.2	A qualified third-party, Unified2 Global Packaging Group, will perform the transit test. The test facility will document the equipment and calibration status in their test report.
+7.3.3	Equipment used for testing or review at NXP will be documented on Attachment 1: Calibration Data Sheet. If a piece of equipment is not calibrated because the output is measured by calibrated equipment, the equipment which monitors the output will be recorded. A copy of the calibration information with the balance of the protocol data will be included in the final test report for this protocol.
+8.0	Design of Experiments
+8.1	Experimental Design
+8.1.1	Part 1 is a transit simulation, conducted according to ISTA 3A by Unified2 Global Packaging Group. This test is appropriate for single packages up to 70 kg (150 lb) for distribution by air or ground, from pick up at the manufacturer’s site to delivery at the destination. The transportation cycle will be simulated using the method defined in ISTA 3A, following the sequence listed in Table 4 – Test Sequence and Levels.
+Table 2 - Test Sequence and Levels
+Sequence Number	Test Category	Test Type	Test Level
+1	Atmospheric Preconditioning 
+TEST BLOCK 1	Temperature and Humidity	Ambient
+3	Shock
+TEST BLOCK 3	Drop (not in a bag)	9 Drops – height varies with packaged-product weight
+4	Vibration
+TEST BLOCKS 6 & 7	Random With and Without Top Load	Overall Grms level of 0.53 <and 0.46>
+5	Vibration
+TEST BLOCKS 2 & 8	Random Vibration Under Low Pressure	Truck or Truck & Air Dependent (Optional)
+6	Shock
+TEST BLOCK 9	Drop (in a bag)	7 Drops – height varies with packaged-product weight
+
+8.1.2	Part 2 consists of a functional evaluation to determine if the conditions in Part 1 had an adverse effect on the functionality of the ADS Injector. This test will be conducted by NXP.
+8.2	Training
+8.2.1	Only qualified individuals will perform testing.
+8.3	Sample Size Rationale
+8.3.1	Sample size has been established per VVP-0961-20000. The Type Acceptance Test (TAT) follows the internationally recognized performance test procedure ISTA 3A. This procedure specifies a sample size of one for transit simulation. One test article is adequate for this evaluation because the intent is to evaluate whether the test articles, when designed and manufactured and processed according to approved specifications for clinical units, satisfy the requirements of the Product Performance Characteristics document. Per customer needs, 8 devices will be tested.
+8.4	Data Analysis
+8.4.1	A functional verification test, per TM-0961-20000, will be used to determine if the test product was not damaged during Part 1. This study is being conducted as a Type Acceptance Test and the results are self-evident. Therefore, specification of a statistical method for data analysis is not required.
+8.5	Deviations 
+8.5.1	Deviations to this protocol are permitted, provided they are reviewed by the protocol approvers.
+8.5.2	Deviations will be documented in the report, stating what was supposed to occur, what actually did occur, and justification for the effect on the study.
+8.6	Discrepancies
+8.6.1	Discrepancies will be reviewed on a case-by-case basis to determine the effect on the study. In order to accept a discrepant result as passing, the review must demonstrate that the design intent was met.
+8.6.2	Discrepancies will be documented in the report, stating what was supposed to occur, what actually did occur, and justification for the effect on the study.
+9.0	Acceptance Criteria
+9.1	The results of this study will be evaluated against these criteria. All criteria must be met in order for the study to be considered successful.
+Table 3 - Acceptance Criteria
+Criterion	Specification	Acceptance
+1	The shipping container must have:
+•	Legible labels.
+•	Scanner-readable bar codes.	All samples meet specification.
+2	The items contained within the interior shall reside in their proper position, with no items missing.	All samples meet specification.
+3	The exterior of each component will be free of visible damage with the unaided eye, including but not limited to, dents, cracks, loose/missing components, loose/missing screws, misaligned plugs (if appropriate), and broken switches (if appropriate), paint abrasion, scratches, etc.	All samples meet specification.
+4	All test articles must meet applicable functional requirements.	All samples meet specification.
+
+10.0	Reporting
+Upon completion of this protocol, a report will be written summarizing the results and a summary statement of acceptability, as well as a discussion of any deviations encountered during the execution of this protocol. All original data sheets will be attached to the report.
+11.0	Test Procedure
+11.1	Pre-Transit Preparation
+11.1.1	Obtain (1) DWG-0961-20031, MeiraGTx ADS Injector, from the DV Build.
+11.1.2	Verify test article meets the requirements of TM-0961-20000 and retain a copy of the completed functional test data sheet(s) per TM-0961-20000, for inclusion in the test report upon completion.
+11.1.3	Package the test articles according to MP-0961-20000.
+11.1.3.1	Corrugated board shipping boxes are to be visually inspected for damage prior to packing the test articles. All observations are to be recorded in Appendix 2.
+11.1.3.2	Inspect interior foam supports for any damage prior to packing the ADS Injector. All observations are to be recorded in Attachment 2.
+11.1.3.3	Inspect additional items included within the packaging per MP-0961-20000 (AC Power Cord, Power Adapter, IFU). All observations are to be recorded in Attachment 2.
+11.1.3.4	Any damage or abnormalities found during visual inspections should be photographed and documented in the report.
+11.1.4	Verify the items contained within the package reside in their proper position, with no items missing. Record any findings in Appendix 2.
+11.1.5	Produce a bar code on a blank shipper label.
+11.1.6	Attach the label to the shipping box.
+11.1.7	Verify the size and weight of the shipping box.
+11.1.8	Verify the label(s) are adhered to the cardboard shipping box.
+11.1.9	Verify label(s) are legible.
+11.1.10	Verify the bar code(s) are scannable.
+11.1.11	Pack the test article in a redundant protective outer box to limit any wear and tear during initial transit.
+11.1.12	Ship test articles to Unified2 Global Packaging Group, who will conduct transit testing per the procedure in ISTA 3A.
+11.2	Transit Test
+11.2.1	3rd party test service will verify the size and weight of the shipping box.
+11.2.2	3rd party will perform Transit Test per ISTA 3A. which includes the following:
+11.2.2.1	Atmospheric Preconditioning: AIR TRAVEL Temp: 23° ±2°C/ Humidity 50%±5%
+11.2.2.2	Shock Free Fall Drop (not in a bag)
+11.2.2.3	Vibration Random Test
+11.2.2.4	Shock Free Fall Drop (in a bag)
+11.2.3	Sign and date any data sheets (see Attachments 1 and 2)
+11.2.4	Provide a report when shipping test articles back to NXP.
+11.3	Post-Transit Functional Device Verification
+11.3.1	NXP to receive tests articles and verify that the received report from Unified2 Global Packaging Group is signed and dated and includes the following information:
+•	Completed test data, including part number, lot number, sample number on box, test results, and observations. 
+•	Test equipment used (i.e., equipment ID and description). 
+•	Calibration state of the equipment (i.e., last calibration date and the calibration due date). 
+•	Documentation of all test article conditioning and test data (e.g., charts, graphs, visual inspections, etc.).
+•	All test articles are returned to NXP and Attachment 4: Transit Test House Cycle Log Sheet is complete and signed.
+11.3.2	Verify the items contained within the shipping box reside in their proper position, with no items missing. Record findings in Appendix 3.
+11.3.3	Un-pack the items and verify that they are free from visible damage. All damage or abnormalities are to be recorded in Appendix 3.
+11.3.4	Any damage or discrepancy found during visual inspection should be photographed and documented in the report.
+11.3.5	Use the ADS Injector Assembly to perform the final functional test per TM-0961-20000.
+11.3.6	The ability to perform the final functional test per TM-0961-20000 using the ADS Injector test article satisfies the functional test requirement. Document results in Appendix 3.
+11.4	Review for Acceptance
+11.4.1	Shipping Box Inspection
+11.4.1.1	Inspect shipping box for damage prior to un-packing the ADS Injector. All abnormalities are to be recorded in Appendix 3.
+11.4.1.2	Inspect storage box for damage prior to un-packing the ADS Injector. All abnormalities are to be recorded in Appendix 3.
+11.4.1.3	Any damage or abnormalities found during visual inspection should be photographed and documented in the report.
+11.4.2	Label Inspection (storage box)
+11.4.2.1	Examine the labels on the storage box.
+11.4.2.2	Verify that the labels are legible.
+11.4.2.3	Verify that any bar codes are scannable.
+11.4.2.4	Verify that labels are adhered to the shipper box.
+11.4.2.5	Record findings in Appendix 3.
+11.4.2.6	
+11.4.2.7	A
+11.4.3	Post-Test Functional Device Verification
+11.4.4	
+11.4.5	
+11.4.6	
+11.4.7	Inspect each shipper box for damage. Take pictures for the returned samples and attach them to the report. 
+11.4.8	Record the Shipper Box # and any observations on the data sheet in Attachment 3: Post Transit Data Sheet, making sure to note any obvious breaks, separations, dents, or mechanical failures of the shipper. Take additional pictures as needed.
+11.4.9	Inspect the shelf boxes and IFU, ensuring that: 
+•	The box is free from damage, such as crushed corners, punctures, or scuffing. 
+•	The labels are legible. 
+•	The IFU is legible.
+11.4.10	Remove the device from the packaged assembly.
+11.4.10.1	Inspect for any damage and non-conformances to be reviewed.
+11.4.10.2	Verify that the labels are legible.
+11.4.11	Fill in Attachment 3, recording any observations, such as results, damages, cracks, or other defects.
+11.4.12	Sign and date Attachment 3 once complete.
+11.5	A
+12.0	Disposition of Product
+All Products in this protocol will be delivered to Engineering for further testing. The devices used for this protocol will be held until approval of the report. Upon report approval, the devices will be processed according to the recommendation of the report.
+13.0	Attachments
+•	Attachment 1:  Calibration Data Sheet
+•	Attachment 2:  Pre-Transit Inspection & Test (pump, packaging)
+•	Attachment 3:  Post-Transit Inspection & Test (pump, packaging)
+•	
+
+
+REVISION RECORD
+REV #	ECO #	DESCRIPTION
+X00	DTR-2026-XXXXXX	Original Release
+
+ 
+ 
+Attachment 1 – Calibration Data Sheet
+
+Equipment ID No.	Equipment Description	Last Calibration Date	Calibration Due Date
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+Verified By:			
+	Name	Signature	Date
+Reviewed By:			
+	Name	Signature	Date
+
+ 
+Attachment 4: Transit Test House Cycle Log Sheet
+Notes:
+1.	Log Sheet is to be used for each transit run
+2.	Log Sheet is to be attached to the documentation packet sent to the contract test house.
+
+NXP:
+Product P/N	Number of Boxes	Lot Number	Qty per Box (Identify boxes with qty of product)
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+Test House Name:
+Unified2 Global Packaging Group, 
+223 Worcester-Providence Turnpike, 
+Sutton, MA 01590.
+
+Transit Physical test per ISTA 3A: 
+•	Compression Test 
+•	Vibration Random 
+•	Shock Free Fall  
+Transit test Documentation Requirements 
+•	Certificate Laboratory Report Form 
+•	ISTA 3A pre-shipment procedure performed checked 
+•	Lab test Records 
+•	Process Charts 
+•	Test Report  
+Product Requirements 
+•	All test packages to return to NXP in final tested condition
+
+
+Contract Transit House Signature: _________________________________ Date: __________
+
+
+ 
+Attachment 2 – Pre Transit Data Sheet
+ADS Injector Assembly Serial Number:	
+ADS Injector Assembly Work Order Number:	
+Test Step	Description 	Results	Comments
+9.2	Verify test article meets requirements of TM-0961-20000. Include completed copy of TM-0961-20000, Attachment #TBD with this document.	        P                   0
+       0                   F
+
+9.3.1	Inspect cardboard shipping box	P	0
+0
+F	
+9.3.2	Inspect interior foam	P	0
+0
+F	
+9.7	Verify the size and weight of packaged ADS Injector Assembly
+Nominal: TBD x TBD x TBD inch (±TBD”)	H:	W:	L:	Wt:	
+9.8	Verify the label(s) are adhered to the cardboard shipping box.	P	0
+0
+F	
+9.9	Verify label(s) are legible.	P	0
+0
+F	
+9.10	Verify that bar code(s) are scannable.	P	0
+0
+F	
+			
+Verified By:
+		
+Printed Name	Signature	Date
+
+ 
+Attachment 3 – Post Transit Data Sheet
+ADS Injector Assembly Serial Number:	
+ADS Injector Assembly Work Order Number:	
+Test Step	Description 	Results	Comments
+11.1.1	Inspect cardboard shipping box for damage.	      P                 0
+       0                  F
+
+11.2.2	Verify label(s) are legible.	P	0
+0
+F	
+11.2.3	Verify bar code(s) are scannable.	P	0
+0
+F	
+11.2.4	Verify label(s) are adhered to the cardboard shipping box.	P	0
+0
+F	
+Functional Device Testing
+11.3.1	Verify contents reside in proper position.	P	0
+0
+F	
+11.3.2	Verify packaged items are free from visible damage.	P	0
+0
+F	
+11.3.4	Verify ADS Injector meets requirements of TM-0961-20000. Include completed copy of TM-0961-20000, Attachment #TBD with this document.	P	0
+0
+F	
+			
+Verified By:
+		
+Printed Name	Signature	Date
+
+ 
+
+
+
+
+//////////////////
